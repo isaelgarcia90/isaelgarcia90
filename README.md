@@ -1,37 +1,238 @@
 <h1 align="center">Hi 👋, I'm Isael Garcia</h1>
 
 <h3 align="justify">
-A software engineer and computer scientist pursuing a career transition into AI Engineering, Machine Learning and Full-stack development, coming from a solid Embedded Systems background.<br><br>
-With that goal in mind, I've been attending AI conferences, taking courses, reading about ML and data analytics and I have a strong interest in what these tools can build and predict, and in applying them to real full-stack products.
+Software Engineer with 10+ years of professional experience across software development,
+system integration, Linux-based systems and automation, primarily in automotive,
+retail and telecommunications.
 </h3>
 
 <h3 align="justify">
-I'm passionate about continuously learning state-of-the-art technologies.
+I'm currently developing my skills in Applied AI, Generative AI, AI Agents
+and Business Automation through hands-on projects.
 </h3>
 
 <h3 align="justify">
-Feel free to explore and <a href="https://www.linkedin.com/in/isael-g-11882571/">connect with me!</a>
+My current focus is on applying these technologies to real-world problems
+and business processes while continuing to build on my software engineering background.
 </h3>
 
-- 🔭 I’m currently working on a [Robotics ML Monitoring Dashboard](https://github.com/isaelgarcia-90/robotics_ML_monitoring_dashboard) : A React and TypeScript dashboard for visualizing simulated real-time robotics ML data and system metrics. Built reusable dashboard components for live predictions, latency monitoring, logs, and annotation workflows, with architecture designed for future FastAPI and ROS2 integration. I used AI-assisted tooling to accelerate UI development.
+---
 
-- 🌱 I’m currently learning **AI Engineering, Machine Learning (LLM), and Full-stack development (html, css, javascript, react, typescript, python, c++, databases)**
+### 🚀 What I'm currently working on
 
-- 👯 I’m looking to collaborate on **AI Engineering, Machine Learning (LLM) and Full-stack development**
+- 💧 **[Forzes Water](https://www.forzeswater.com)**  
+  Evolving a business website into an AI-assisted sales and customer-service platform,
+  with a focus on customer inquiries, sales follow-up, product information
+  and business process automation.
+  
+- 🤖 **[AI & Automation Projects](https://www.garciaisael.com/ai-projects/)**  
+  Building small hands-on projects to learn and apply AI agents,
+  LLM-based applications, RAG and workflow automation.
+  
+---
 
-- 🤝 I’m looking for help with **AI Engineering, Machine Learning (LLM) and Full-stack development**
+### 🌱 Currently learning
 
-- 👨‍💻 All of my projects are available at [garciaisael.com](https://www.garciaisael.com)
+**AI Engineering, Generative AI, LLM-based Applications, AI Agents,
+AI-driven Business Automation, Multi-Agent Systems, RAG, MCP, n8n,
+Supabase, Airtable and Google Cloud Platform (GCP).**
 
-- 📝 I regularly write articles on [garciaisael.com/blog/](https://garciaisael.com/blog/)
+---
 
-- 📫 How to reach me **isael.garcia_90@hotmail.com**
+### 💻 Technical background
+
+**Python · C/C++ · Linux · Software Integration · Automation · REST APIs ·
+JavaScript · HTML/CSS · Git/GitHub · SQL**
+
+---
+
+### 🔗 More about me
+
+- 👨‍💻 Portfolio: [garciaisael.com](https://www.garciaisael.com)
+- 🧪 AI Projects: [garciaisael.com/ai-projects/](https://www.garciaisael.com/ai-projects/)
+- 📝 Blog: [garciaisael.com/blog/](https://www.garciaisael.com/blog/)
+- 💼 LinkedIn: [isaelgarcia90](https://www.linkedin.com/in/isaelgarcia90/)
+- 📫 Email: **isael.garcia_90@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/isael-g-11882571/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isael-g-11882571/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/isaelgarcia90/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="isaelgarcia90"
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
+<p align="left">
+
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- Google Cloud -->
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+      alt="google cloud"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- OpenAI -->
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/dark.svg"
+      alt="OpenAI"
+      title="OpenAI"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <!-- Google Gemini -->
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/googlegemini/8E75B2"
+      alt="Google Gemini"
+      title="Google Gemini"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <!-- Claude -->
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/claude/D97757"
+      alt="Claude"
+      title="Claude"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/supabase/3FCF8E"
+      alt="supabase"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- n8n -->
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/n8n/EA4B71"
+      alt="n8n"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <!-- Airtable -->
+  <a href="https://www.airtable.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/airtable/18BFFF"
+      alt="airtable"
+      width="40"
+      height="40"
+    />
+  </a>
+
+</p>
